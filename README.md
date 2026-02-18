@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td width="100%" valign="top" style="border:none;">
+<td valign="top" style="border:none;">
 
 ### What Drives Me
 - **End-to-end ownership** — From architecture to deployment
@@ -184,7 +184,6 @@
 </td>
 </tr>
 </table>
----
 
 ## Recently Shipped Projects
 
@@ -198,7 +197,6 @@
 | **OnchainTrophy.com** | Proof of Achievement meta-protocol |
 | **Lumisat.io** | Platform for discovering rare and unique Satoshis in your Bitcoin wallet |
 
----
 
 ## GitHub Performance Metrics
 
@@ -220,8 +218,6 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=norfrt6-lab&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" />
 
 </div>
-
----
 
 <div align="center">
 
