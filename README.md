@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td valign="top" style="border:none;">
+<td width="100%" valign="top" style="border:none;">
 
 ### What Drives Me
 - **End-to-end ownership** — From architecture to deployment
