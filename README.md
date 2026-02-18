@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td width="40%" valign="top" style="border:none;">
+<td width="100%" valign="top" style="border:none;">
 
 ### What Drives Me
 - **End-to-end ownership** — From architecture to deployment
@@ -30,7 +30,6 @@
 
 </tr>
 </table>
----
 
 ## Domain Expertise
 
@@ -48,7 +47,6 @@
 
 🧠 **AI Development** — Custom model training, fine-tuning, and production deployment
 
----
 
 ## Technology Stack & Tools
 
