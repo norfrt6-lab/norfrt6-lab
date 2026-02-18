@@ -18,11 +18,6 @@
 
 <table>
 <tr>
-<td width="60%" valign="top" align="center" style="border:none;">
-
-<img width="100%" src="https://github-stats-mu-nine.vercel.app/api?username=norfrt6-lab&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1116&theme=algolia&hide_border=true" alt="GitHub Stats"/>
-
-</td>
 <td width="40%" valign="top" style="border:none;">
 
 ### What Drives Me
