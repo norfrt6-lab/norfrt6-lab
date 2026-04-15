@@ -3,10 +3,10 @@
 # Full Stack Software Engineer | Video & AI Specialist
 
 [![Profile Views](https://komarev.com/ghpvc/?username=norfrt6-lab&color=blueviolet&style=flat)](https://github.com/norfrt6-lab)
-[![GitHub followers](https://img.shields.io/github/followers/norfrt6-lab?logo=GitHub&style=flat)](https://github.com/norfrt6-lab)
-[![GitHub stars](https://img.shields.io/github/stars/norfrt6-lab?logo=github&style=flat)](https://github.com/norfrt6-lab)
+[![GitHub followers](https://img.shields.io/github/followers/norfrt6-lab?style=flat&logo=github&color=555)](https://github.com/norfrt6-lab?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/norfrt6-lab?style=flat&logo=github&color=555)](https://github.com/norfrt6-lab)
 
-### Building scalable apps, real-time video platforms, and AI-powered products
+**10+ years** shipping scalable web, mobile, TV, and AI systems in production — from HIPAA-compliant telehealth platforms to real-time streaming infrastructure serving **10,000+ concurrent users**.
 
 </div>
 
@@ -14,20 +14,103 @@
 
 ## About Me
 
-**Full Stack Engineer** with 10+ years of hands-on experience building **scalable, high-performance applications** across web, mobile, TV, desktop, and AR/VR. I specialize in **real-time video infrastructure** and **production AI systems**, and I've shipped everything from HIPAA-compliant telehealth platforms to Bitcoin inscription tooling.
+Full-stack engineer specializing in **real-time video infrastructure** and **production AI systems**. I own the full lifecycle — architecture, implementation, deployment, and compliance — across web, mobile, smart TV, desktop, and AR/VR platforms.
+
+I've built multi-tenant SaaS products from zero to production, integrated pharmacy and e-prescribing workflows under HIPAA/GDPR, shipped live video systems at scale using WebRTC, HLS, and RTMP, and deployed AI pipelines with PyTorch, YOLO, and fine-tuned LLMs.
+
+**What I bring:**
+- End-to-end ownership from architecture to Kubernetes deployment
+- Compliance-first design — HIPAA, GDPR, LegitScript baked in from day one
+- Video and AI systems that handle real traffic, not just demos
+- Cross-platform delivery: web, iOS, Android, Samsung Tizen, Apple TV, AR/VR
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=norfrt6-lab&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norfrt6-lab&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=norfrt6-lab&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
-<td width="100%" valign="top" style="border:none;">
+<td width="50%" valign="top">
 
-### What Drives Me
-- **End-to-end ownership** — From architecture to deployment
-- **Streaming at scale** — WebRTC, HLS, and RTMP in production
-- **AI that ships** — Not demos, deployed models doing real work
-- **Cross-platform reach** — Web, mobile, smart TV, AR/VR
-- **Compliance-first** — HIPAA, GDPR built in from day one
+### 🏥 Telehealth SaaS Platform
+HIPAA/GDPR-compliant multi-tenant platform with EHR, e-prescribing, pharmacy integrations, multi-state doctor licensing, and 219 registered NestJS domain modules.
+
+<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></p>
+
+[→ View repo](https://github.com/norfrt6-lab/telehealth-saas)
+
 </td>
+<td width="50%" valign="top">
 
+### 🎥 WebRTC Video Conferencing
+Full-stack video conferencing with multi-party WebRTC mesh, screen sharing, virtual backgrounds, whiteboard, recording, and noise cancellation. **96 tests.**
+
+<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></p>
+
+[→ View repo](https://github.com/norfrt6-lab/webrtc-video-chat)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Voice Agent Orchestrator
+Multi-agent voice AI with LiveKit, deterministic FSM conversation control (12 states, 23 transitions), slot-filling, guardrails, and an evaluation framework. **184 tests, mypy clean.**
+
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LiveKit-7B61FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></p>
+
+[→ View repo](https://github.com/norfrt6-lab/voice-agent-orchestrator)
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ AI Face Recognition
+Real-time face detection and recognition pipeline with OpenCV, YOLO, InsightFace, and Azure Cognitive Services. REST API with batch processing, video stream support, and face swap.
+
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></p>
+
+[→ View repo](https://github.com/norfrt6-lab/ai-face-recognition)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 HLS Streaming Server
+Production live-video server with RTMP ingest, FFmpeg multi-bitrate transcoding, HLS packaging, DVR, and adaptive bitrate delivery. Built for broadcast-scale audiences.
+
+<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/> <img src="https://img.shields.io/badge/RTMP-E4405F?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/HLS-000000?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></p>
+
+[→ View repo](https://github.com/norfrt6-lab/hls-streaming-server)
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Multi-Tenant SaaS Platform
+Production-grade SaaS boilerplate targeting 10k+ tenants — Stripe metered billing, tenant isolation, tRPC, feature gates, audit logs, and observability. Sub-200ms P95 API.
+
+<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></p>
+
+[→ View repo](https://github.com/norfrt6-lab/saas-platform)
+
+</td>
 </tr>
 </table>
 
@@ -51,7 +134,7 @@
 
 ---
 
-## Technology Stack & Tools
+## Technology Stack
 
 <table>
 <tr>
@@ -98,32 +181,23 @@
 
 ---
 
-## Recently Shipped Projects
+## Shipped Products
 
-| Project | Description |
-|---------|------------|
-| **BringRx.com** | Telehealth platform with EHR, e-Prescribing, HIPAA compliance, LegitScript Certified |
+| Product | What It Does |
+|---------|-------------|
+| **BringRx.com** | Telehealth platform — EHR, e-prescribing, HIPAA compliant, LegitScript Certified |
 | **playlist.art** | NFT playlist builder with custom display and canvas options |
 | **acquisitive.us** | AI-powered Business Valuation SaaS |
 | **Inscribr.io** | Bitcoin Ordinal inscription tooling and NFT launchpad |
 | **Runestake.io** | Non-custodial staking platform for Runes Protocol |
-| **OnchainTrophy.com** | Proof of Achievement meta-protocol |
-| **Lumisat.io** | Platform for discovering rare and unique Satoshis in your Bitcoin wallet |
+| **OnchainTrophy.com** | Proof of Achievement meta-protocol on-chain |
+| **Lumisat.io** | Platform for discovering rare Satoshis in your Bitcoin wallet |
 
 ---
 
-## GitHub Performance Metrics
-
 <div align="center">
 
-### Achievements & Milestones
 [![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=norfrt6-lab&theme=algolia&margin-w=4&row=1&column=9)](https://github.com/norfrt6-lab)
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=norfrt6-lab&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
@@ -137,10 +211,6 @@
 
 <div align="center">
 
-### "The best code is the code you never have to explain."
-
-<br>
-
-**Thanks for stopping by.** If something here catches your eye, feel free to star a repo or reach out. Always happy to talk shop.
+If something here catches your eye, feel free to star a repo or reach out.
 
 </div>
