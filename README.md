@@ -112,6 +112,50 @@ Production-grade SaaS boilerplate targeting 10k+ tenants — Stripe metered bill
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 Microservices API Gateway
+Production API gateway with JWT auth, RBAC, Redis rate limiting, circuit breaker, NATS message bus, OpenTelemetry distributed tracing, and Prometheus metrics.
+
+<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logoColor=white"/></p>
+
+[→ View repo](https://github.com/norfrt6-lab/microservices-api-gateway)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Real-Time Data Pipeline
+Crypto market data pipeline with Kafka ingestion, PySpark transformation, dbt analytics models, and Airflow orchestration. Real-time + batch processing in one stack.
+
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/></p>
+
+[→ View repo](https://github.com/norfrt6-lab/data-pipeline-etl)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 React Native Fintech App
+Production fintech app with real-time crypto portfolio tracking, biometric auth (Face ID/fingerprint), trading simulation, offline-first MMKV persistence, and multi-language support. **310+ tests.**
+
+<p><img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></p>
+
+[→ View repo](https://github.com/norfrt6-lab/react-native-fintech-app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 RAG AI Assistant
+Document Q&A assistant with LangChain, ChromaDB vector store, streaming chat, source attribution, and RAG evaluation metrics. Supports PDF, TXT, DOCX, CSV, and web pages. **30+ tests.**
+
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-FF6719?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></p>
+
+[→ View repo](https://github.com/norfrt6-lab/langchain-ai-assistant)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -198,12 +242,6 @@ Production-grade SaaS boilerplate targeting 10k+ tenants — Stripe metered bill
 <div align="center">
 
 [![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=norfrt6-lab&theme=algolia&margin-w=4&row=1&column=9)](https://github.com/norfrt6-lab)
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=norfrt6-lab&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" />
 
 </div>
 
