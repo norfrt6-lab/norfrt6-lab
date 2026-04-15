@@ -104,9 +104,9 @@ Production live-video server with RTMP ingest, FFmpeg multi-bitrate transcoding,
 <td width="50%" valign="top">
 
 ### ☁️ Multi-Tenant SaaS Platform
-Production-grade SaaS boilerplate targeting 10k+ tenants — Stripe metered billing, tenant isolation, tRPC, feature gates, audit logs, and observability. Sub-200ms P95 API.
+Turborepo monorepo targeting 10k+ tenants. Row-level tenant isolation, RBAC (Owner › Admin › Member), Stripe subscriptions + metered billing + dunning, idempotent webhooks, immutable audit log, GDPR erasure, background jobs with DLQ, and ADRs. Sub-200ms P95 API.
 
-<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></p>
+<p><img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></p>
 
 [→ View repo](https://github.com/norfrt6-lab/saas-platform)
 
@@ -153,6 +153,28 @@ Document Q&A assistant with LangChain, ChromaDB vector store, streaming chat, so
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-FF6719?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></p>
 
 [→ View repo](https://github.com/norfrt6-lab/langchain-ai-assistant)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 AI Real Estate Platform
+Full-stack property management platform with GPT-4 AI features, RBAC (landlord/tenant/agent), Stripe billing, maintenance requests, document storage on S3/Cloudinary, SendGrid notifications, and E2E tests with Playwright.
+
+<p><img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></p>
+
+[→ View repo](https://github.com/norfrt6-lab/ai-real-estate-platform)
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 React Native WebRTC
+Native WebRTC module for React Native — audio/video calls, data channels, screen capture, and simulcast across Android, iOS, and tvOS. Unified Plan (M124), all major architectures supported.
+
+<p><img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/></p>
+
+[→ View repo](https://github.com/norfrt6-lab/react-native-webrtc)
 
 </td>
 </tr>
